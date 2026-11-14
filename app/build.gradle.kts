@@ -10,7 +10,7 @@ android {
         applicationId = "nl.codex.kpndenon"
         minSdk = 23
         targetSdk = 28
-        versionCode = 8
-        versionName = "1.7"
+        versionCode = 9
+        versionName = "1.8"
     }
 }
