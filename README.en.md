@@ -15,7 +15,7 @@ Download [`outputs/DenonSchakelaar.apk`](outputs/DenonSchakelaar.apk) and instal
 - Receiver discovery uses SSDP on the local network.
 - Power and input selection use Denon Telnet commands on port 23.
 - HDMI numbers start with the AVR-X2400H factory assignments. Change them if your receiver uses a different configuration.
-- The app does not read custom source names or HDMI assignments from the receiver. Configure them in the app.
+- On connection, the app requests source names from the Denon interface and updates them when the receiver provides them. If the receiver returns no names, the app uses its configured labels. HDMI assignments are not read automatically and must be set in the app.
 - Waking a connected device depends on HDMI-CEC and that device’s settings. Some devices, including the Nintendo Switch, may need to be woken manually.
 - The app was made for the Denon AVR-X2400H. Other Denon and Marantz models have not been tested.
 

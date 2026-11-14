@@ -17,7 +17,7 @@ Download [`outputs/DenonSchakelaar.apk`](outputs/DenonSchakelaar.apk) en install
 - Receiver zoeken gebeurt via SSDP op het lokale netwerk.
 - Inschakelen en ingangskeuze gebruiken Denon Telnet-commando’s op poort 23.
 - HDMI-nummers zijn vooraf ingevuld volgens de standaardindeling van de AVR-X2400H. Pas ze aan als de receiver anders is ingesteld.
-- De app leest aangepaste namen en HDMI-toewijzingen niet uit de receiver. Je stelt ze zelf in de app in.
+- De app vraagt bij verbinding de bronnamen op via de Denon-interface en werkt ze bij als de receiver ze beschikbaar stelt. Als de receiver geen namen terugstuurt, gebruikt de app de ingestelde labels. HDMI-toewijzingen worden niet automatisch uitgelezen; die stel je zelf in.
 - Het inschakelen van een aangesloten apparaat hangt af van HDMI-CEC en de instellingen van dat apparaat. Voor sommige apparaten, waaronder een Nintendo Switch, is handmatig ontwaken nodig.
 - De app is gemaakt voor de Denon AVR-X2400H. Andere Denon- en Marantz-modellen zijn niet getest.
 
