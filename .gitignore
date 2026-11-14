@@ -5,3 +5,5 @@ local.properties
 .idea/
 work/
 outputs/*.idsig
+outputs/*.apk
+.codex-attachments/

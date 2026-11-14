@@ -10,7 +10,7 @@ In Instellingen kun je apparaatnamen, HDMI-nummers, pictogrammen en de volgorde 
 
 ### Installatie
 
-Download [`outputs/DenonSchakelaar.apk`](outputs/DenonSchakelaar.apk) en installeer deze op een Android TV-apparaat. Voor deze app is sideloaden nodig; hij staat niet in de Play Store. De receiver en Android TV moeten op hetzelfde lokale netwerk zitten.
+Download de [laatste release](https://github.com/aeilkema/denon-schakelaar-kpn-tv/releases/latest/download/DenonSchakelaar.apk) en installeer de APK op een Android TV-apparaat. Voor deze app is sideloaden nodig; hij staat niet in de Play Store. De receiver en Android TV moeten op hetzelfde lokale netwerk zitten.
 
 ### Werking en beperkingen
 
@@ -33,7 +33,7 @@ Settings let you change device names, HDMI numbers, icons and input order. Input
 
 ### Installation
 
-Download [`outputs/DenonSchakelaar.apk`](outputs/DenonSchakelaar.apk) and install it on an Android TV device. Sideloading is required; the app is not available from the Play Store. The receiver and Android TV device must be on the same local network.
+Download the [latest release](https://github.com/aeilkema/denon-schakelaar-kpn-tv/releases/latest/download/DenonSchakelaar.apk) and install the APK on an Android TV device. Sideloading is required; the app is not available from the Play Store. The receiver and Android TV device must be on the same local network.
 
 ### Operation and limitations
 
