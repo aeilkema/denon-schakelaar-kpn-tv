@@ -2,13 +2,13 @@
 
 [Nederlands](README.md) | **English**
 
-Denon Schakelaar is an Android TV app for controlling a Denon AVR-X2400H from a KPN TV+ Box. It discovers the receiver on the local network and provides controls to power it on and select an HDMI input.
+Denon Schakelaar is an Android app for controlling a Denon AVR-X2400H from a KPN TV+ Box or phone. It discovers the receiver on the local network and provides controls to power it on and select an HDMI input. The layout adapts to portrait on phones and keeps its wide layout on TVs.
 
 Settings let you choose between receiver names and custom names. HDMI numbers, icons and input order can also be changed. Inputs can be hidden from the home screen. The active input is highlighted. Unsaved changes can be saved or discarded when pressing Back. The interface is designed for remote control navigation and uses a dark theme.
 
 ## Installation
 
-Download the [latest release](https://github.com/aeilkema/denon-schakelaar-kpn-tv/releases/latest/download/DenonSchakelaar.apk) and install the APK on an Android TV device. Sideloading is required; the app is not available from the Play Store. The receiver and Android TV device must be on the same local network.
+Download the [latest release](https://github.com/aeilkema/denon-schakelaar-kpn-tv/releases/latest/download/DenonSchakelaar.apk) and install the APK on an Android TV device or phone. Sideloading is required; the app is not available from the Play Store. The receiver and Android device must be on the same local network.
 
 ## Operation and limitations
 
