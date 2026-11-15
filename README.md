@@ -8,6 +8,8 @@ Denon Schakelaar is een Android-app om een Denon AVR-X2400H vanuit de KPN TV+ Bo
 
 In Instellingen kun je kiezen tussen namen van de receiver en eigen namen. Ook HDMI-nummers, pictogrammen en de volgorde zijn aanpasbaar. Je kunt ingangen verbergen op het startscherm. De actieve ingang wordt gemarkeerd. Niet-opgeslagen wijzigingen kunnen bij Terug worden opgeslagen of weggegooid. De interface is ontworpen voor gebruik met een afstandsbediening en heeft een donkere weergave.
 
+Advanced mode is optioneel. Het voegt tabs toe voor receiverbediening, geluidsmodi, Zone 2 en het Setup-menu van de receiver. Bron kiezen blijft het hoofdscherm en is de standaard starttab. De gebruiker kan een andere starttab instellen en de tabvolgorde wijzigen. Die extra functies zijn gebaseerd op de AVR-X2400H en kunnen per model of firmware verschillen.
+
 ### Installatie
 
 Download de [laatste release](https://github.com/aeilkema/denon-schakelaar-kpn-tv/releases/latest/download/DenonSchakelaar.apk) en installeer de APK op een Android TV-apparaat of telefoon. Voor deze app is sideloaden nodig; hij staat niet in de Play Store. De receiver en het Android-apparaat moeten op hetzelfde lokale netwerk zitten.
@@ -20,6 +22,7 @@ Download de [laatste release](https://github.com/aeilkema/denon-schakelaar-kpn-t
 - De app vraagt bij verbinding de bronnamen op via de Denon-interface en werkt ze bij als de receiver ze beschikbaar stelt. Als de receiver geen namen terugstuurt, gebruikt de app de ingestelde labels. HDMI-toewijzingen worden niet automatisch uitgelezen; die stel je zelf in.
 - Het inschakelen van een aangesloten apparaat hangt af van HDMI-CEC en de instellingen van dat apparaat. Voor sommige apparaten, waaronder een Nintendo Switch, is handmatig ontwaken nodig.
 - De app is gemaakt voor de Denon AVR-X2400H. Andere Denon- en Marantz-modellen zijn niet getest.
+- Advanced mode biedt receiverbediening en opent het originele Setup-menu op de tv; het bouwt de volledige officiële Denon-app niet na. Deep mediafuncties zoals DLNA, HEOS en tunerfavorieten zijn niet opgenomen.
 
 ### Persoonlijk gebruik
 

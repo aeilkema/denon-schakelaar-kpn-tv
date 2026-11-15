@@ -6,6 +6,8 @@ Denon Schakelaar is an Android app for controlling a Denon AVR-X2400H from a KPN
 
 Settings let you choose between receiver names and custom names. HDMI numbers, icons and input order can also be changed. Inputs can be hidden from the home screen. The active input is highlighted. Unsaved changes can be saved or discarded when pressing Back. The interface is designed for remote control navigation and uses a dark theme.
 
+Advanced mode is optional. It adds tabs for receiver controls, sound modes, Zone 2 and the receiver's Setup menu. Source selection remains the main screen and the default start tab. The user can choose another start tab and reorder the tabs. These extra controls are based on the AVR-X2400H and may vary by model or firmware.
+
 ## Installation
 
 Download the [latest release](https://github.com/aeilkema/denon-schakelaar-kpn-tv/releases/latest/download/DenonSchakelaar.apk) and install the APK on an Android TV device or phone. Sideloading is required; the app is not available from the Play Store. The receiver and Android device must be on the same local network.
@@ -18,6 +20,7 @@ Download the [latest release](https://github.com/aeilkema/denon-schakelaar-kpn-t
 - On connection, the app requests source names from the Denon interface and updates them when the receiver provides them. If the receiver returns no names, the app uses its configured labels. HDMI assignments are not read automatically and must be set in the app.
 - Waking a connected device depends on HDMI-CEC and that device’s settings. Some devices, including the Nintendo Switch, may need to be woken manually.
 - The app was made for the Denon AVR-X2400H. Other Denon and Marantz models have not been tested.
+- Advanced mode provides receiver controls and opens the receiver's original Setup menu on the TV; it does not reproduce every feature of Denon's official app. Deep media features such as DLNA, HEOS and tuner favourites are not included.
 
 ## Personal use
 
